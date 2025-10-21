@@ -39,14 +39,5 @@ O projeto ”Controla$eu” é focado em auxiliar pessoas físicas/jurídicas (e
     O sistema deve apresentar navegação interna intuitiva e consistente, a fim de confortar e satisfazer o usuário.
 * **RNF06 – Boa performance:**
     O sistema e suas diferentes páginas devem carregar e salvar informações de maneira rápida.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* **Modelo Canva ** *
+<img width="1351" height="837" alt="image" src="https://github.com/user-attachments/assets/055659f0-55e2-44f4-b496-c3f56909f2f8" />
