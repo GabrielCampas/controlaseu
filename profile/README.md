@@ -39,5 +39,5 @@ O projeto ”Controla$eu” é focado em auxiliar pessoas físicas/jurídicas (e
     O sistema deve apresentar navegação interna intuitiva e consistente, a fim de confortar e satisfazer o usuário.
 * **RNF06 – Boa performance:**
     O sistema e suas diferentes páginas devem carregar e salvar informações de maneira rápida.
-* **Modelo Canva ** *
+## Modelo Canva
 <img width="1351" height="837" alt="image" src="https://github.com/user-attachments/assets/055659f0-55e2-44f4-b496-c3f56909f2f8" />
