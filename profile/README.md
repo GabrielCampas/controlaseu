@@ -38,7 +38,7 @@ O projeto ”Controla$eu” é focado em auxiliar pessoas físicas/jurídicas (e
 * **RNF05 – Intuitivo e de fácil navegação:**
     O sistema deve apresentar navegação interna intuitiva e consistente, a fim de confortar e satisfazer o usuário.
 * **RNF06 – Boa performance:**
-    O sistema e suas diferentes páginas devem carregar e salvar informações de maneira rápida.## Hi there 👋
+    O sistema e suas diferentes páginas devem carregar e salvar informações de maneira rápida.
 
 <!--
 
